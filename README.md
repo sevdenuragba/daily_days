@@ -1,7 +1,7 @@
 # This branch is still under development
 
 
-# Dailydays Project
+# DailyDays Project
 
 Staying informed about current events is crucial in today's fast-paced world. However, finding reliable news from various sources can be challenging. To address this, DailyDays, the application that was developed within this study.
 
